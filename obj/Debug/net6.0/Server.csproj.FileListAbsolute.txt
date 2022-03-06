@@ -1,0 +1,15 @@
+C:\repos\codeassignment\assignment\bin\Debug\net6.0\Server.exe
+C:\repos\codeassignment\assignment\bin\Debug\net6.0\Server.deps.json
+C:\repos\codeassignment\assignment\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\repos\codeassignment\assignment\bin\Debug\net6.0\Server.dll
+C:\repos\codeassignment\assignment\bin\Debug\net6.0\Server.pdb
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.dll
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\refint\Server.dll
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.pdb
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\repos\codeassignment\assignment\obj\Debug\net6.0\ref\Server.dll

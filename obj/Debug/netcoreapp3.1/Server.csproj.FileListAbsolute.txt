@@ -1,0 +1,14 @@
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.exe
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.dll
+C:\repos\codeassignment\assignment\bin\Debug\netcoreapp3.1\Server.pdb
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.dll
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.pdb
+C:\repos\codeassignment\assignment\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
